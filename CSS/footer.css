@@ -1,0 +1,44 @@
+body {
+    background-color: #202120;
+}
+
+.container {
+    border: 1px, solid;
+    border-radius: 5px;
+    padding: 10px;
+    padding-top: 15px;
+}
+
+form {
+    font-size: 24px;
+    
+}
+
+input {
+    background-color: gray;
+    margin: 5px;
+}
+
+h1 {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-right: 200px
+}
+
+table {
+    justify-content: center;
+    color: #98d47d;
+    background: #454544;
+    
+}
+
+a {
+    justify-content: bottom;
+    color: blue;
+    font-weight: 800;
+}
+
+.tab {
+    margin: 5px;
+}
