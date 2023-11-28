@@ -7,7 +7,7 @@
 <head>
     <link rel="stylesheet" href="../../css/tarefas.css">
     <meta charset="UTF-8">
-    <title>Lista de Tarefas</title>
+    <title>Lista de clientes</title>
     <?php
     include '../base/footer.php'
     ?>
