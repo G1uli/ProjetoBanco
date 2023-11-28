@@ -5,7 +5,7 @@
     $result = $conexao->query($sql);
 ?>
 <head>
-    <link rel="stylesheet" href="../../css/tarefas.css">
+    <link rel="stylesheet" href="../../css/cliente.css">
     <meta charset="UTF-8">
     <title>Lista de clientes</title>
     <?php
