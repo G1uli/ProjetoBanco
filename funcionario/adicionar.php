@@ -1,6 +1,6 @@
 <head>
     <meta charset="UTF-8">
-    <title>Adicionar Cliente</title>
+    <title>Adicionar funcionário</title>
     <?php
     include '../base/header.php'
     ?>
