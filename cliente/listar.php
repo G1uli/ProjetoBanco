@@ -13,7 +13,7 @@
     ?>
 </head>
 <h1>Gerenciamento</h1>
-<a href="adicionar.php">Adicionar nova venda</a>
+<a href="adicionar.php">Adicionar nova compra</a>
 <table border="1">
     <thread> 
         <tr>
