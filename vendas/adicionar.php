@@ -4,10 +4,8 @@
     <style>
         body {
             font-style: Arial;
-            display: ;
-            justify-content: ;
-            align-items: ;
-            background-color: ;
+            align-items: center;
+            background-color: #202120;
         }
 
         .container {
