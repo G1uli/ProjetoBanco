@@ -1,7 +1,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Adicionar Tarefa</title>
+    <title>Adicionar cliente</title>
     <?php
     include '../base/header.php'
     ?>
