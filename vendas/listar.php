@@ -2,12 +2,14 @@
 include '../conexao.php';
 
 $sql = "SELECT 
-        id,
-        produto, 
-        quantidade, 
-        valor, 
-        cliente,
-        funcionario from vendas";
+        v.id,
+        v.produto, 
+        v.quantidade, 
+        v.valor, 
+        v.cliente as cliente_nome,
+        v.funcionario 
+        from vendas as v
+        left join cliente as c on v.cliente = c.nome";
 $result = $conexao->query($sql);
 ?>
 <!DOCTYPE html>
